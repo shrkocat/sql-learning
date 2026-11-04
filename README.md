@@ -1,4 +1,5 @@
 <div align="center">
+
 # SQL Learning Repository
 
 Building SQL Foundations with PostgreSQL Through Hands-On Exercises and Practice
