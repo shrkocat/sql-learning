@@ -68,6 +68,17 @@ SQL-Learning/
 │   ├── 11_practice_exercises.sql
 │   └── 12_level_01_review.sql
 │
+├── 02_Aggregation_Functions/
+│   ├── 01_count.sql
+│   ├── 02_sum.sql
+│   ├── 03_avg.sql
+│   ├── 04_min_max.sql
+│   ├── 05_group_by.sql
+│   ├── 06_group_by_multiple_columns.sql
+│   ├── 07_having.sql
+│   ├── 08_combining_aggregations.sql
+│   ├── 09_practice_exercises.sql
+│   └── 10_level_02_review.sql
 ├── test_connection.sql
 ├── verification.sql
 └── README.md
