@@ -56,7 +56,7 @@ FROM products
 WHERE supplier IN ('TechSource', 'GadgetHub');
 
 -- Display product_name for products whose names
---    start with the letter 'D' using LIKE.
+--    start with the letter 'D' using LIKE. 
 SELECT product_name
 FROM products
 WHERE product_name LIKE 'D%';
