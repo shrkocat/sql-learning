@@ -112,5 +112,5 @@ HAVING AVG(price) > 5000
 ORDER BY AVG(price) DESC;
 
 -- =====================================================
--- END OF LEVEL 02 COMPREHENSIVE REVIEW
+-- END OF PRACTICAL ASSESSMENT
 -- =====================================================

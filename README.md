@@ -79,6 +79,17 @@ SQL-Learning/
 │   ├── 08_combining_aggregations.sql
 │   ├── 09_practice_exercises.sql
 │   └── 10_level_02_review.sql
+│
+├── 03_Conditional_Logic/
+│   ├── 01_case_when.sql
+│   ├── 02_case_when_multiple_conditions.sql
+│   ├── 03_case_when_with_aggregation.sql
+│   ├── 04_coalesce.sql
+│   ├── 05_nullif.sql
+│   ├── 06_combining_conditional_logic.sql
+│   ├── 07_practice_exercises.sql
+│   └── 08_level_03_review.sql
+│
 ├── test_connection.sql
 ├── verification.sql
 └── README.md
