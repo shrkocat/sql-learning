@@ -90,6 +90,17 @@ SQL-Learning/
 │   ├── 07_practice_exercises.sql
 │   └── 08_level_03_review.sql
 │
+├── 04_SQL_Joins/
+│   ├── 00_setup_join_tables.sql
+│   ├── 01_inner_join.sql
+│   ├── 02_left_join.sql
+│   ├── 03_right_join.sql
+│   ├── 04_full_outer_join.sql
+│   ├── 05_cross_join.sql
+│   ├── 06_self_join.sql
+│   ├── 07_multiple_table_joins.sql
+│   ├── 08_practice_exercises.sql
+│   └── 09_level_04_review.sql
 ├── test_connection.sql
 ├── verification.sql
 └── README.md
