@@ -42,9 +42,9 @@ WHERE orders.order_id IS NULL OR customers.customer_id IS NULL;
 -- Exercise 3: Customer and Order Reconciliation
 -- Create a report classifying whether records matched.
 SELECT
-    customers.customer_name,
-    orders.order_id,
-    orders.total_amount,
+    COALESCE(customers.customer_name, 'Unknown Customer'),
+    COALESCE(orders.order_id :: TEXT, 'No Known Order'),
+    COALESCE(orders.total_amount, 0),
     CASE
         WHEN customers.customer_id IS NOT NULL AND orders.order_id IS NOT NULL THEN 'Matched'
         WHEN customers.customer_id IS NOT NULL AND orders.order_id IS NULL THEN 'Customer Without Order'
