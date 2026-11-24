@@ -101,6 +101,19 @@ SQL-Learning/
 │   ├── 07_multiple_table_joins.sql
 │   ├── 08_practice_exercises.sql
 │   └── 09_level_04_review.sql
+│
+├── 05_Subqueries_CTEs/
+│   ├── 01_scalar_subqueries.sql
+│   ├── 02_multi_row_subqueries.sql
+│   ├── 03_correlated_subqueries.sql
+│   ├── 04_exists_not_exists.sql
+│   ├── 05_subqueries_in_from.sql
+│   ├── 06_common_table_expressions.sql
+│   ├── 07_multiple_ctes.sql
+│   ├── 08_ctes_with_joins_and_aggregations.sql
+│   ├── 09_practice_exercises.sql
+│   └── 10_level_05_review.sql
+│
 ├── test_connection.sql
 ├── verification.sql
 └── README.md
