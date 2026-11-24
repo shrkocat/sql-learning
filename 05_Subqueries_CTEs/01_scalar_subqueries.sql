@@ -1,4 +1,4 @@
--- Sample Structure with Aggregated Function --
+-- Query Structure with Aggregated Function --
 SELECT
     product_name,
     price
